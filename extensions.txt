@@ -1,0 +1,13 @@
+Andromeda
+Auto Rename Tag
+Code Runner
+Community Material Theme
+Dracula Official
+ES7+ React/Redux/React-Native snippets
+Eslint
+Learn with Sumit Theme
+Live Server
+Path AutoComplete
+Prettier
+Turbo Console Log
+vscode-icons

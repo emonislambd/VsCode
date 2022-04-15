@@ -1,0 +1,21 @@
+  "Print to console": {
+    "prefix": "con",
+    "body": ["console.log($1);"],
+    "description": "Log output to console"
+  },
+  "add event listener": {
+    "prefix": "add",
+    "body": ["$1.addEventListener(\"$2\",function(){$3});"],
+    "description": "Add Event Listener function"
+  },
+  "Query Selector": {
+    "prefix": "sel",
+    "body": ["document.querySelector(\"$1\");"],
+    "description": "Document Query Selector function"
+  },
+  "Create JS Element": {
+    "prefix": "ele",
+    "body": ["document.createElement(\"$1\");"],
+    "description": "Create JavaScript DOM Element"
+  }
+}
